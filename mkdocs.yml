@@ -1,0 +1,37 @@
+site_name: GORP Civilian Docs
+theme:
+  name: material
+  features:
+    - nevigation.tabs
+    - navigation.sections
+    - toc.intergrate
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - content.code.annotation
+    - content.coede.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: teal
+      accent: purple
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: teal
+      accent: lime
+
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/james-willett
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/willettjames/
+
+copyright:  |
+  &copy; 2023 <a herf="https://github.com/james-willett" target="_blank" rel="noopener">James Willett </a>
