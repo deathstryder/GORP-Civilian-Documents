@@ -1,7 +1,7 @@
 # Downloads Needed For Patrol
 
 
-## [<span style="color:black">Sonoran CAD</span>](https://sonorancad.com/community/menu)
+## [<span style="color:rgb(153,50,204)">Sonoran CAD</span>](https://sonorancad.com/community/menu)
 Server ID: 416
 
 Permission Keys:
@@ -13,12 +13,12 @@ Police: OPPGORP
 FIRE/EMS: FIREGORP
 
 
-## [<span style="color:black">Teamspeak</span>](https://www.teamspeak.com/en/downloads/)
+## [<span style="color:rgb(153,50,204)">Teamspeak</span>](https://www.teamspeak.com/en/downloads/)
 
 IP: 51.81.38.215
 
 
-## [<span style="color:black">FiveM</span>](https://fivem.net/)
+## [<span style="color:rgb(153,50,204)">FiveM</span>](https://fivem.net/)
 
 IP: 51.81.38.215
 
