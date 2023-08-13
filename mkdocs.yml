@@ -6,26 +6,26 @@ nav:
     - Rules: Rules/Rules.md
     - Changes: Rules/Change.md
     - Civilian Ranks:
-      - Director / Deputy Director / Civilian Advisor: Rules/Rank/dir.md
-      - Civ Supervisor: Rules/Rank/sup.md
-      - Senior Civilian: Rules/Rank/sen.md
+      - Director / Deputy Director / Civilian Advisor: Rules/Rank/director.md
+      - Civ Supervisor: Rules/Rank/supervisor.md
+      - Senior Civilian: Rules/Rank/senior.md
       - Civ I: Rules/Rank/I.md
       - Civ II: Rules/Rank/II.md
       - Civ III: Rules/Rank/III.md
       - Civ IV: Rules/Rank/IV.md
     - Prioritys:
-      - Prioritys: Rules/Prioritys/p.md
-      - Priority 3: Rules/Prioritys/p3.md
-      - Priority 2: Rules/Prioritys/p2.md
-      - Priority 1: Rules/Prioritys/p1.md
+      - Prioritys: Rules/Prioritys/prioritys.md
+      - Priority 3: Rules/Prioritys/priority-3.md
+      - Priority 2: Rules/Prioritys/priority-2.md
+      - Priority 1: Rules/Prioritys/priority-1.md
   - Important Information:
-    - Downloads: Important/Down.md
+    - Downloads: Important/Downloads.md
     - Crimiminal Code of Canada: Important/Code.md
     - In Game Commands:
       - Chat Commands: Important/Com/chat.md
-      - Menus: Important/Com/MEN.md
+      - Menus: Important/Com/MENU.md
     - Medical Calls:
-      - Baseline: Important/Med/base.md
+      - Baseline: Important/Med/baseline.md
       - Heat Stroke: Important/Med/heat.md
       - Allergic Reactions:
         - Food Allergy: Important/Med/React/food.md

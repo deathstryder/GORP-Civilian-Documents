@@ -1,7 +1,7 @@
 # Priority 2
 
 
-## <span style="background-color: ##ffa500"><span style="color:black">Priority 2</span></span> Calls For Service
+## <span style="background-color: rgb(255,165,0)"><span style="color:black">Priority 2</span></span> Calls For Service
 - Weapon located
 - Misadventure (Climbing a building, large structure or tree and becoming stuck)
 - Taxi Alarm

@@ -1,7 +1,7 @@
 # Priority 1
 
 
-## <span style="background-color: ##ff0000"><span style="color:black">Priority 1</span></span> Calls For Service
+## <span style="background-color: rgb(255,0,0)"><span style="color:black">Priority 1</span></span> Calls For Service
 - Hunting accident
 - Demonstration
 - Jewelry store robbery

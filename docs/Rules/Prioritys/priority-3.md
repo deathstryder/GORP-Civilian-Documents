@@ -1,7 +1,7 @@
 # Priority 3
 
 
-## <span style="background-color: #008000"><span style="color:black">Priority 3</span></span> Calls For Service
+## <span style="background-color: rgb(0,128,0)"><span style="color:black">Priority 3</span></span> Calls For Service
 - Missing hiker(s)
 - Property Damage Collision Involving no damage
 - Welfare check
