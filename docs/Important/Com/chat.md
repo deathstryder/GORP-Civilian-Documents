@@ -1,0 +1,28 @@
+# Commands used in the text chat
+
+
+## Most Useful Commands
+Command      |Use
+-------------|-------------
+/Revive      |To revive your player after death
+/911         |Contacts Emergency line when dispatch is active
+/311         |Contacts Non-Emergency line when dispatch is active
+/Showcad     |Brings up the in game CAD
+/Setobs      |Allows you to set the medical condition for EMS
+
+## General Commands
+Command      |Use
+-------------|-------------
+/Fix         |Fixes your car
+/Startfire   |Starts a fire with desired conditions in front of player
+/Startsmoke  |Starts smoke with desired conditions in front of player
+/Stopallfires|Stops all fires on the map
+/Stopallsmoke|Stops all smoke on the map
+
+## Roleplay Related
+Command      |Use
+-------------|-------------
+/Takehostage |Takes the nearest player hostage
+/Camera      |Pulls out news video camera
+/Cam         |Pulls out photo camera
+/Carry       |Carrys the nearest player over  your shoulder

@@ -1,4 +1,49 @@
 site_name: GORP Civilian Docs
+
+nav:
+  - Welcome: Welcome.md
+  - Rules and Regulations:
+    - Rules: Rules/Rules.md
+    - Changes: Rules/Change.md
+    - Civilian Ranks:
+      - Director / Deputy Director / Civilian Advisor: Rules/Rank/dir.md
+      - Civ Supervisor: Rules/Rank/sup.md
+      - Senior Civilian: Rules/Rank/sen.md
+      - Civ I: Rules/Rank/I.md
+      - Civ II: Rules/Rank/II.md
+      - Civ III: Rules/Rank/III.md
+      - Civ IV: Rules/Rank/IV.md
+    - Prioritys:
+      - Prioritys: Rules/Prioritys/p.md
+      - Priority 3: Rules/Prioritys/p3.md
+      - Priority 2: Rules/Prioritys/p2.md
+      - Priority 1: Rules/Prioritys/p1.md
+  - Important Information:
+    - Downloads: Important/Down.md
+    - Crimiminal Code of Canada: Important/Code.md
+    - In Game Commands:
+      - Chat Commands: Important/Com/chat.md
+      - Menus: Important/Com/MEN.md
+    - Medical Calls:
+      - Baseline: Important/Med/base.md
+      - Heat Stroke: Important/Med/heat.md
+      - Allergic Reactions:
+        - Food Allergy: Important/Med/React/food.md
+        - Pet & Pollen Allergy: Important/Med/React/Pet.md
+        - Drug Allergy: Important/Med/React/drug.md
+      - Seizure: Important/Med/seizure.md
+      - Heart Attack: Important/Med/Heart.md
+      - Stroke: Important/Med/Stroke.md
+    - Calling 911: Important/911.md
+    - Tow Trucks: Important/tow.md
+    - Call Ideas: Important/call.md
+  - Meet The Team:
+    - Department: Meet/Dept.md
+    - Staff: Meet/Staff.md
+  - FAQ:
+    - Discord FAQ: FAQ/Discord.md
+    - FiveM FAQ: FAQ/Fivem.md
+
 theme:
   name: material
   features:
@@ -29,10 +74,10 @@ theme:
 
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
+    - icon: fontawesome/brands/internet-explorer
+      link: https://greaterontariorp.com/
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/eZ7WWBZd6w
 
 copyright:  |
-  &copy; 2023 <a herf="https://github.com/james-willett" target="_blank" rel="noopener">James Willett </a>
+  &copy; 2023 <a herf="https://github.com/deathstryder" target="_blank" rel="noopener">Greater Ontario Roleplay</a>
