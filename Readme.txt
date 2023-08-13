@@ -1,13 +1,8 @@
-Build using base from mkdocs
+Build using base from mkdocs-material
 Uploded to github
-Uploaded to the web on Readthedocs.org
+Uploaded to the web on github.io
 
-website   ->               https://gorp-civ-test.readthedocs.io/en/latest/
-readthedocs tutorial   ->  https://docs.readthedocs.io/en/stable/intro/getting-started-with-mkdocs.html
-mkdocs tutorial   ->       https://www.mkdocs.org/user-guide/writing-your-docs/
-mkdocs themes   ->         https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
-
-ToDo
-- Try to get community pic as wallpaper
-- Convince Bird Man to allow this
-- New theme (this on looks far too dark and menu on side is very small)
+website                  -> https://gorp-civ-test.readthedocs.io/en/latest/
+mkdocs tutorial          -> https://www.mkdocs.org/user-guide/writing-your-docs/
+mkdocs themes            -> https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
+mkdocs-material tutorial -> https://www.youtube.com/watch?v=Q-YA_dA8C20
