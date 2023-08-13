@@ -62,13 +62,13 @@ theme:
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: red
+      primary: rgb(200,8,21)
       accent: lime
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: red
+      primary: rgb(200,8,21)
       accent: purple
 
 
