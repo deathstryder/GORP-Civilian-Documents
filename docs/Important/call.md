@@ -1,7 +1,7 @@
 # Call Ideas
 
 
-## Priority 3 Ideas
+## <span style="background-color: rgb(0,128,0)"><span style="color:black">Priority 3</span></span> Ideas
 - Missing hiker(s)
 - Property Damage Collision Involving no damage
 - Welfare check
@@ -24,7 +24,7 @@
 - Missing senior
 
 
-## Priority 2 Ideas
+## <span style="background-color: rgb(255,165,0)"><span style="color:black">Priority 2</span></span> Ideas
 - Gas leak
 - Physical altercation involving two separate groups
 - Pedestrian or cyclists on a 400 series Highway
@@ -53,7 +53,7 @@
 - Demonstration 
 
 
-## Priority 1 Ideas
+## <span style="background-color: rgb(255,0,0)"><span style="color:black">Priority 1</span></span> Ideas
 - A person with a weapon at street level (Not a Firearm) 
 - A person with a weapon in a subway station (Not a Firearm) 
 - A person with a weapon in a store (Not a Firearm)
