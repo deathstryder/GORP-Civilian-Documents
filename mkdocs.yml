@@ -1,8 +1,6 @@
-\<head>\
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-\</head>\
-
 site_name: GORP Civilian Docs
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 nav:
   - Welcome: Welcome.md
@@ -64,13 +62,13 @@ theme:
   palette:
     - scheme: slate
       toggle:
-        icon: img/sun-regular.png
+        icon: material/toggle-switch
         name: Switch to light mode
       primary: red
       accent: lime
     - scheme: default
       toggle:
-        icon: img/moon-solid.png
+        icon: material/toggle-switch-off-outline
         name: Switch to dark mode
       primary: red
       accent: purple
@@ -78,9 +76,9 @@ theme:
 
 extra:
   social:
-    - icon: img/internet-explorer.png
+    - icon: fontawesome/brands/internet-explorer
       link: https://greaterontariorp.com/
-    - icon: img/discord.png
+    - icon: fontawesome/brands/discord
       link: https://discord.gg/eZ7WWBZd6w
 
 copyright:  |
