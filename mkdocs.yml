@@ -1,8 +1,8 @@
+site_name: GORP Civilian Docs
+
 \<head>\
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 \</head>\
-
-site_name: GORP Civilian Docs
 
 nav:
   - Welcome: Welcome.md
