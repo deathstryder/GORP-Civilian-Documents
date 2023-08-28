@@ -26,11 +26,11 @@ nav:
       - Menus: Important/Com/MENU.md
     - Medical Calls:
       - Baseline: Important/Med/baseline.md
-      - Heat Stroke: Important/Med/heat.md
       - Allergic Reactions:
         - Food Allergy: Important/Med/React/food.md
         - Pet & Pollen Allergy: Important/Med/React/Pet.md
         - Drug Allergy: Important/Med/React/drug.md
+      - Heat Stroke: Important/Med/heat.md
       - Seizure: Important/Med/seizure.md
       - Heart Attack: Important/Med/Heart.md
       - Stroke: Important/Med/Stroke.md
