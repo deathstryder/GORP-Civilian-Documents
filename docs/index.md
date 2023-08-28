@@ -2,3 +2,4 @@
 
 ## It will greatly improve your roleplaying skills, and set the standard expected while on patrol
 
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">

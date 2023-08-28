@@ -1,7 +1,5 @@
 site_name: GORP Civilian Docs
 
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 nav:
   - Welcome: Welcome.md
   - Rules and Regulations:
