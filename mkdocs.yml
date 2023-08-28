@@ -60,13 +60,13 @@ theme:
   palette:
     - scheme: slate
       toggle:
-        icon: img/sun-regular.png
+        icon: img/sun-regular
         name: Switch to light mode
       primary: red
       accent: lime
     - scheme: default
       toggle:
-        icon: img/moon-solid.png
+        icon: img/moon-solid
         name: Switch to dark mode
       primary: red
       accent: purple
