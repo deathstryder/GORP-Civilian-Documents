@@ -47,6 +47,7 @@ nav:
 theme:
   name: material
   favicon: favicon.ico
+  logo: GORP.png
   features:
     - nevigation.tabs
     - navigation.sections
@@ -64,13 +65,13 @@ theme:
         icon: fontawesome/solid/sun
         name: Switch to light mode
       primary: red
-      accent: lime
+      accent: red
     - scheme: default
       toggle:
         icon: fontawesome/solid/moon
         name: Switch to dark mode
-      primary: red
-      accent: purple
+      primary: blue
+      accent: red
 
 
 extra:
@@ -81,6 +82,7 @@ extra:
       link: https://discord.gg/eZ7WWBZd6w
     - icon: fontawesome/brands/tiktok
       link: https://www.tiktok.com/@screw4darthvader?_t=8aXKcox8CwP&_r=1
+  homepage: https://deathstryder.github.io/GORP-Civilian-Documents/Rules/Rules/
 
 copyright:  |
   &copy; 2023 <a herf="https://github.com/deathstryder" target="_blank" rel="noopener">Greater Ontario Roleplay</a>
