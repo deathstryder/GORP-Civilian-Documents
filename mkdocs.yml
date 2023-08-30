@@ -46,7 +46,7 @@ nav:
 
 theme:
   name: material
-  favicon: img/favicon.ico
+  favicon: favicon.ico
   features:
     - nevigation.tabs
     - navigation.sections
