@@ -11,4 +11,4 @@ A: If it's within 30 mins of the start of patrol, the server may just be restart
 A: Contact your Civilian Supervisor or a member of staff that is on
 
 ## Q: I can't think of any scenes to do
-A: Look [HERE](https://gorp-civ-test.readthedocs.io/en/latest/#Important/call/), If you still can't think of something, check #Civilian-Call-Ideas on Discord. If all else fails, reach out to others in #Civilian-General-Chat
+A: Look [HERE](https://deathstryder.github.io/GORP-Civilian-Documents/Important/call/), If you still can't think of something, check #Civilian-Call-Ideas on Discord. If all else fails, reach out to others in #Civilian-General-Chat

@@ -5,4 +5,4 @@
 A: There may have been a mixup, Contact the Civilian Chain of Command to fix it.
 
 ## Q: What is the Civilian Chain Of Command?
-A: Civilian Chain of Comand (COC) is every rank [HERE](https://gorp-civ-test.readthedocs.io/en/latest/#Rules/Rank/dir/) that is Civilian Supervisor and up
+A: Civilian Chain of Comand (COC) is every rank [HERE](https://deathstryder.github.io/GORP-Civilian-Documents/Rules/Rank/supervisor/) that is Civilian Supervisor and up

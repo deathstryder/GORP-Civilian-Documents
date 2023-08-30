@@ -6,11 +6,11 @@ Server ID: 416
 
 Permission Keys:
 
-Civilian: CIVGORP
+        Civilian: CIVGORP
 
-Police: OPPGORP
+        Police: OPPGORP
 
-FIRE/EMS: FIREGORP
+        FIRE/EMS: FIREGORP
 
 
 ## [<span style="color:rgb(153,50,204)">Teamspeak</span>](https://www.teamspeak.com/en/downloads/)
