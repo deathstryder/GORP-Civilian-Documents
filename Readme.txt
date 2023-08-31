@@ -1,5 +1,5 @@
 Build using base from mkdocs-material
-Uploded to github
+Uploaded to github
 Uploaded to the web on github.io
 
 website                  -> https://deathstryder.github.io/GORP-Civilian-Documents/
