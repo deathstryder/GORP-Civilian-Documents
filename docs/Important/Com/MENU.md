@@ -20,6 +20,6 @@ This Menu is where props are spawned and speed zones set
 ## Emote Menu
 ![Emote](Pics/Emote.png)
 
-You can access this by pressing " [ " or typing "Emotemenu" in chat
+You can access this by pressing " F9 " or typing "Emotemenu" in chat
 
 This is where all emotes are stored and accessed

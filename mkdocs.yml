@@ -1,7 +1,7 @@
 site_name: GORP Civilian Docs
 
 nav:
-  - Welcome: Welcome.md
+  - Welcome: index.md
   - Rules and Regulations:
     - Rules: Rules/Rules.md
     - Changes: Rules/Change.md
@@ -24,6 +24,7 @@ nav:
     - In Game Commands:
       - Chat Commands: Important/Com/chat.md
       - Menus: Important/Com/MENU.md
+      - CAD: Important/Com/CAD.md
     - Medical Calls:
       - Baseline: Important/Med/baseline.md
       - Allergic Reactions:
@@ -58,6 +59,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.coede.copy
+    - navigation.footer
   language: en
   palette:
     - scheme: slate
