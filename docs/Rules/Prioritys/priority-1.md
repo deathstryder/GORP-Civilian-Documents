@@ -2,7 +2,10 @@
 
 
 ## <span style="background-color: rgb(255,0,0)"><span style="color:black">Priority 1</span></span> Calls For Service
-- Hunting accident
+
+### These are very involved calls, usually resulting in an all call for Police or Fire/Ems
+### Below are some basic examples or ideas;
+
 - Demonstration
 - Jewelry store robbery
 - Bank robbery

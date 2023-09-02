@@ -17,7 +17,6 @@ Command      |Use
 ## General Commands
 Command      |Use
 -------------|-------------
-/Fix         |Fixes your car
 /Startfire   |Starts a fire with desired conditions in front of player
 /Startsmoke  |Starts smoke with desired conditions in front of player
 /Stopallfires|Stops all fires on the map

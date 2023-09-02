@@ -3,7 +3,7 @@
 ## Normal Levels for vitals when dealing with EMS
 
 Vital           |Normal Range
-:---:           |---
+---:           |:---
 Heart Rate      |60-100 BPM
 Blood Presure   |120/80 mm Hg and lower
 SpO2            |95-100%
