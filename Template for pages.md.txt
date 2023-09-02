@@ -1,3 +1,10 @@
 # Big Text
 ## Medium Text
+### Small Text
 Paragraph
+
+Chart|More Chart|Even more Chart
+:--- |:---:     |---:
+Left |center    |Right
+
+![name](folder/picture.png)
