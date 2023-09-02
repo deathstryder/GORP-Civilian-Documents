@@ -8,3 +8,5 @@ Chart|More Chart|Even more Chart
 Left |center    |Right
 
 ![name](folder/picture.png)
+
+<!-- this content will not appear on the website -->
